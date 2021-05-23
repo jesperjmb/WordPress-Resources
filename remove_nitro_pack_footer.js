@@ -1,4 +1,4 @@
-//Add the follow js snippet to remove the NitroPack footer and branding from any page
+//Add the following js snippet to remove the NitroPack footer and branding from any page
 //Please only use this snippet for development/staging. While it can be used for a live site consider instead buying the NitroPack Pro version to support the developers.
 
 document.addEventListener("DOMContentLoaded", function () {
